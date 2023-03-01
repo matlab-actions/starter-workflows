@@ -1,0 +1,11 @@
+{
+    "name": "MATLAB",
+    "description": "Build and test with MATLAB",
+    "iconName": "matlab",
+    "creator": "MathWorks",
+    "categories": [
+        "MATLAB",
+        "Continuous integration",
+        "testing"
+    ]
+}
