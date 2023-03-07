@@ -1,6 +1,6 @@
 {
     "name": "MATLAB",
-    "description": "Build and test with MATLAB",
+    "description": "Build and test a MATLAB project.",
     "iconName": "matlab",
     "creator": "MathWorks",
     "categories": [
