@@ -46,10 +46,10 @@ jobs:
           path: test-results/results.xml
 
       # As an alternative to run-tests, you can use run-command to execute a MATLAB script
-      #- name: Run script
-      #  uses: matlab-actions/run-command@v1
-      #  with:
-      #    command: myscript
+      # - name: Run script
+      #   uses: matlab-actions/run-command@v1
+      #   with:
+      #     command: myscript
 
       # As an alternative to run-tests, you can use run-build to execute a MATLAB build
       # - name: Run build
